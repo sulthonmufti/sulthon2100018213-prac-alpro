@@ -1,0 +1,6 @@
+inputoutput.cpp
+1. minginputkan data kelas, nim dan nama dalam bentuk array 1 dimensi
+2. memberikan hasil output tabel array 2 dimensi
+
+proses.cpp
+3. mengkonversikan dari array 1 dimensi menjadi array 2 dimensi
